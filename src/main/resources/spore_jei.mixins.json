@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.Spore_JEI.Mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "spore_jei.refmap.json",
+  "mixins": [
+    "SurgeryTableOutputMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
