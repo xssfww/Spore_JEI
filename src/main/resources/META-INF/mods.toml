@@ -8,7 +8,7 @@ displayName="真菌感染：JEI兼容"
 authors="XcS"
 logoFile="LOGO.png"
 description = '''
-使真菌感染：孢子中的手术台支持JEI一键配方
+为真菌感染：孢子中的手术台与嫁接台提供JEI一键配方传输，并修复切换配方后产物槽不刷新的问题。需要客户端与服务端同时安装。
 '''
 [[dependencies.spore_jei]]
 modId="forge"
